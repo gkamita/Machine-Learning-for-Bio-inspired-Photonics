@@ -1,7 +1,7 @@
 Machine Learning for Bio and Bio-inspired Photonics
 ==================================
-** Dr Gen Kamita **
-** Bio-inspired Photonics group, Cambridge **
+### Dr Gen Kamita
+### Bio-inspired Photonics group, Cambridge
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
