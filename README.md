@@ -1,9 +1,9 @@
 Machine Learning for Bio-Photonics
 ==================================
 
-In nature there are lots of great iridescent colours.
-They have great properties: non-fading colour, tuneable colour, hierarchical structure, etc.
-Creating novel iridescent materials inspired by these natural examples is important for application. Understanding the underlying principle of the formation process is also important for uncovering the formation process in nature, which will give us insight of their design strategies.
+In nature, many amazing of great iridescent colours.
+They have amazing properties that pigments : colour that never faids, colours that can be tuned from red, green to blue, hierarchical structure, etc.
+Understanding the underlying principle of the formation process is important for uncovering the formation process of these structures in nature, which will give us insight of their design strategies, allowing us to creat novel iridescent materials inspired by these natural examples is important for application. 
 CNCs are cool material because of bio-inspired reasons, sustainability reasons, photonic reasons, nano reasons, biocompatibility reasons and so on. Therefore it is very important to understand the structural property so that we can make cool materials.
 
 However, studying bio and bio-inspired photonic structures, including CNCs are never easy because of the interplay of order and disorder. In well ordered systems, quantitative optical models can be straightforwardly applied for modelling optical signals. These models include transfer matrix method, Berreman's method. The output of these models can be directly used for interpreting the properties of the photonic structures, which makes them powerful tools for studying photonic structures.
