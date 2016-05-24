@@ -1,10 +1,16 @@
-Machine Learning for Bio-Photonics
+Machine Learning for Bio and Bio-inspired Photonics
 ==================================
+** Dr Gen Kamita **
+** Bio-inspired Photonics group, Cambridge **
 
-In nature, many amazing of great iridescent colours.
-They have amazing properties that pigments : colour that never faids, colours that can be tuned from red, green to blue, hierarchical structure, etc.
+![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
+
+Briliant colours found in nature are often not created from pigments, but are results of light interacting with extrodinarily intricate structures that are about 100 times smaller than human hair.
+Nature's shiniest blue fruit of Pollia Condensata, also known for its ever-lasting colour, uses cellulose microfibrils to make such structure.
+Inspired by the Pollia fruit, we study cellulos in order to create materials with such structural colour for sensors and 
+
 Understanding the underlying principle of the formation process is important for uncovering the formation process of these structures in nature, which will give us insight of their design strategies, allowing us to creat novel iridescent materials inspired by these natural examples is important for application. 
-CNCs are cool material because of bio-inspired reasons, sustainability reasons, photonic reasons, nano reasons, biocompatibility reasons and so on. Therefore it is very important to understand the structural property so that we can make cool materials.
+ CNCs are cool material because of bio-inspired reasons, sustainability reasons, photonic reasons, nano reasons, biocompatibility reasons and so on. Therefore it is very important to understand the structural property so that we can make cool materials.
 
 However, studying bio and bio-inspired photonic structures, including CNCs are never easy because of the interplay of order and disorder. In well ordered systems, quantitative optical models can be straightforwardly applied for modelling optical signals. These models include transfer matrix method, Berreman's method. The output of these models can be directly used for interpreting the properties of the photonic structures, which makes them powerful tools for studying photonic structures.
 
