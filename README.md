@@ -6,7 +6,7 @@ Machine Learning for Bio-inspired Photonics
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
->*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
+>*<strong>Left:</strong> Berries of Pollia Condensata<sup>1</sup>. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscopeb<sup>1</sup>.*
 
 
 Brilliant colours found in nature are often not created from pigments, but are results of light interacting with extraordinarily intricate structures that are about 100 times smaller than human hair. Nature's shiniest blue fruit of Pollia Condensata, also known for its ever-lasting colour, uses cellulose microfibrils to make such structure. Inspired by the Pollia fruit, we study cellulose in order to create materials with such structural colour for sensing, security printing and other applications.
@@ -33,6 +33,8 @@ The above picture shows results of machine learning driven peak detection. It ca
 
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
+
+[1] Vignolini, S., Rudall, P. J., Rowland, A. V., Reed, A., Moyroud, E., Faden, R. B., et al. (2012). Pointillist structural color in Pollia fruit. Pnas, 109(39), 15712–15715. http://doi.org/10.1073/pnas.1210105109/-/DCSupplemental/pnas.1210105109_SI.pdf
 ---
 
 **note: To see the codes and other files used for this project, please clone this repo by "git clone ssh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning\_for\_bioPhotonics.git" or download it from [this link](https://git.csx.cam.ac.uk/i/ch-vignolini/u/gk298/machineLearning_for_bioPhotonics.git/snapshot/cdde9268f75771ec70c6a100044acb2c38100ea7.zip).**
