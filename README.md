@@ -8,7 +8,6 @@ Machine Learning for Bio-inspired Photonics
 
 >*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
 
-___
 
 Brilliant colours found in nature are often not created from pigments, but are results of light interacting with extraordinarily intricate structures that are about 100 times smaller than human hair. Nature's shiniest blue fruit of Pollia Condensata, also known for its ever-lasting colour, uses cellulose microfibrils to make such structure. Inspired by the Pollia fruit, we study cellulose in order to create materials with such structural colour for sensing, security printing and other applications.
 
@@ -24,7 +23,6 @@ To solve this dilemma, I developed a powerful machine-learning technique that al
 
 >*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Two peaks merging.*
 
----
 
 The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample as shown bellow. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
 
@@ -32,11 +30,9 @@ The above picture shows results of machine learning driven peak detection. It ca
 
 >*Analysis results that shows detailed optical properties of the material. <strong>Top-left:</strong> Photograph of the actual sample. <strong>Top-right:</strong> Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. <strong>Bottom-left:</strong> Stacked bar chart of detected peak wavelenth. <strong>Bottom-right:</strong> Stacked bar chart of detected peak intensity.*
 
----
 
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
----
 
 **note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it from this link.**
 
