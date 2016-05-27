@@ -22,7 +22,7 @@ To solve this dilemma, I developed a powerful machine-learning technique that al
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/peaks_small.png  "Detected peaks")
 
-*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Merging peaks.*
+*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Two peaks merging.*
 
 ---
 
@@ -39,6 +39,4 @@ We believe that this study is going to be the first example that shows how machi
 ---
 
 **note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it (see image bellow).**
-
-![alt text](https://dl.dropboxusercontent.com/u/3543207/download.png "instructions")
 
