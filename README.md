@@ -3,11 +3,7 @@ Machine Learning for Bio-inspired Photonics
 ### Dr Gen Kamita
 ### Bio-inspired Photonics group, Cambridge
 
-**note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it (see image bellow).**
 
-![alt text](https://dl.dropboxusercontent.com/u/3543207/download.png "instructions")
-
----
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
@@ -34,4 +30,10 @@ The above picture shows results of machine learning driven peak detection. It ca
 *Analysis results that shows detailed optical properties of the material. Top-left: Photograph of the actual sample. Top-right: Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. Bottom-left: Stacked bar chart of detected peak wavelenth. Bottom-right: Stacked bar chart of detected peak intensity.*
 
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
+
+---
+
+**note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it (see image bellow).**
+
+![alt text](https://dl.dropboxusercontent.com/u/3543207/download.png "instructions")
 
