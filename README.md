@@ -5,9 +5,9 @@ Machine Learning for Bio-inspired Photonics
 
 ** note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it (see image bellow). **
 
----
-
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/download.png "instructions")
+
+---
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
