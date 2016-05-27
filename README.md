@@ -34,7 +34,7 @@ The above picture shows results of machine learning driven peak detection. It ca
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
 
-1. Vignolini, S. et al. (2012). Pointillist structural color in Pollia fruit. Pnas, 109(39), 15712–15715.
+\1. Vignolini, S. et al. (2012). Pointillist structural color in Pollia fruit. Pnas, 109(39), 15712–15715.
 ---
 
 **note: To see the codes and other files used for this project, please clone this repo by "git clone ssh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning\_for\_bioPhotonics.git" or download it from [this link](https://git.csx.cam.ac.uk/i/ch-vignolini/u/gk298/machineLearning_for_bioPhotonics.git/snapshot/cdde9268f75771ec70c6a100044acb2c38100ea7.zip).**
