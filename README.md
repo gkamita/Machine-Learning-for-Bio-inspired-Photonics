@@ -27,7 +27,7 @@ The above picture shows results of machine learning driven peak detection. It ca
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/map.tif "maps")
 
-*Analysis results that shows detailed optical properties of the material. Top-left: Photograph of the actual sample. Top-right: Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. Bottom-left: Stacked bar chart of detected peak wavelenth. Bottom-right: Stacked bar chart of detected peak intensity.*
+*Analysis results that shows detailed optical properties of the material. <strong>Top-left:</strong> Photograph of the actual sample. <strong>Top-right:</strong> Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. <strong>Bottom-left:</strong> Stacked bar chart of detected peak wavelenth. <strong>Bottom-right:</strong> Stacked bar chart of detected peak intensity.*
 
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
