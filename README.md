@@ -21,7 +21,7 @@ To solve this dilemma, I developed a powerful machine-learning technique that al
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/peaks_small.png  "Detected peaks")
 
-*Peak detection results. The detected peaks are indicated by orange and yellow lins. Top: One peak. Middle: Two peaks. Bottom: Merging peaks.*
+*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Merging peaks.*
 
 The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample as shown bellow. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
 
