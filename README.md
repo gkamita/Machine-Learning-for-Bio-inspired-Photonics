@@ -15,7 +15,9 @@ This type of difficulty is caused by a fundamental limitation of non-linear opti
 
 To solve this dilemma, I developed a simple and powerful machine-learning technique that allows automatic analysis of complicated optical data. Unlike other mathematical methods, machine-learning algorithms excel in pattern recognition. Considering our optical signals as patterns, a machine-learning algorithm can classify the signals based on the features they have. For example, an artificial neural network, which is an algorithm that is used in this study, can be trained to recognise the difference between signals that have one peak and two peaks, without being fooled by less important features such as noise and small amplitude oscillations. Based on the determined classification, we can generate constraints that can be used for the optimisation process that follows afterwards.
 
-![alt text](https://dl.dropboxusercontent.com/u/3543207/peaks_small.png  "Peak detection results. Top: One peak. Middle: Two peaks. Bottom: Merging peaks.")
+![alt text](https://dl.dropboxusercontent.com/u/3543207/peaks_small.png  "Detected peaks")
+
+*Peak detection results. Top: One peak. Middle: Two peaks. Bottom: Merging peaks.*
 
 The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
 
