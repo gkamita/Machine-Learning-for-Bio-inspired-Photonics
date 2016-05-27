@@ -35,5 +35,5 @@ We believe that this study is going to be the first example that shows how machi
 
 ---
 
-**note: To see the codes and other files used for this project, please clone this repo by "git clone ssh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning\_for\_bioPhotonics.git" or download it from this link.**
+**note: To see the codes and other files used for this project, please clone this repo by "git clone ssh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning\_for\_bioPhotonics.git" or download it from [this link](https://git.csx.cam.ac.uk/i/ch-vignolini/u/gk298/machineLearning_for_bioPhotonics.git/snapshot/cdde9268f75771ec70c6a100044acb2c38100ea7.zip).**
 
