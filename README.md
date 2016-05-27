@@ -6,7 +6,7 @@ Machine Learning for Bio-inspired Photonics
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
-*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
+>*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
 
 ___
 
@@ -22,7 +22,7 @@ To solve this dilemma, I developed a powerful machine-learning technique that al
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/peaks_small.png  "Detected peaks")
 
-*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Two peaks merging.*
+>*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Two peaks merging.*
 
 ---
 
@@ -30,7 +30,7 @@ The above picture shows results of machine learning driven peak detection. It ca
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/map.tif "maps")
 
-*Analysis results that shows detailed optical properties of the material. <strong>Top-left:</strong> Photograph of the actual sample. <strong>Top-right:</strong> Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. <strong>Bottom-left:</strong> Stacked bar chart of detected peak wavelenth. <strong>Bottom-right:</strong> Stacked bar chart of detected peak intensity.*
+>*Analysis results that shows detailed optical properties of the material. <strong>Top-left:</strong> Photograph of the actual sample. <strong>Top-right:</strong> Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. <strong>Bottom-left:</strong> Stacked bar chart of detected peak wavelenth. <strong>Bottom-right:</strong> Stacked bar chart of detected peak intensity.*
 
 ---
 
@@ -38,5 +38,5 @@ We believe that this study is going to be the first example that shows how machi
 
 ---
 
-**note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it (see image bellow).**
+**note: To see the codes and other files used for this project, please clone this repo by "git clone issh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning_for_bioPhotonics.git" or download it from this link.**
 
