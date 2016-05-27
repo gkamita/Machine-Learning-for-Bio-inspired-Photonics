@@ -19,7 +19,11 @@ To solve this dilemma, I developed a simple and powerful machine-learning techni
 
 *Peak detection results. The detected peaks are indicated by orange and yellow lins. Top: One peak. Middle: Two peaks. Bottom: Merging peaks.*
 
-The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
+The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample as shown bellow. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
+
+![alt text](https://dl.dropboxusercontent.com/u/3543207/map.tif "maps")
+
+*Analysis results that shows detailed optical properties of the material. Top-left: Photograph of the actual sample. Top-right: Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. Bottom-left: Stacked bar chart of detected peak wavelenth. Bottom-right: Stacked bar chart of detected peak intensity.*
 
 We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
