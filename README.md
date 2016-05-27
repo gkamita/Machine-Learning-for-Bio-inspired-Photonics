@@ -6,7 +6,7 @@ Machine Learning for Bio-inspired Photonics
 
 ![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
 
-*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
+>*<strong>Left:</strong> Berries of Pollia Condensata. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope.*
 
 ___
 
