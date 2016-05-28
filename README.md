@@ -31,7 +31,7 @@ The above picture shows results of machine learning driven peak detection. It ca
 >*Analysis results that shows detailed optical properties of the material. <strong>Top-left:</strong> Photograph of the actual sample. <strong>Top-right:</strong> Image reconstructed from optical measurements. Regions with two peaks are indicated with colours corresponding to the detected peak wavelength. A clear correlation between the patterns shown in this graph and the photograph is seen. <strong>Bottom-left:</strong> Stacked bar chart of detected peak wavelenth. <strong>Bottom-right:</strong> Stacked bar chart of detected peak intensity.*
 
 
-We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how it can have a dramatic impact on the output. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
+We believe that this study is going to be the first example that shows how machine learning can be used for optical data analysis and how powerful it can be. This technique can be applied for many other problems that are difficult to solve by conventional methods, for example for time series analysis.
 
 
 1. Vignolini, S. et al. (2012). Pointillist structural color in Pollia fruit. Pnas, 109(39), 15712–15715.
