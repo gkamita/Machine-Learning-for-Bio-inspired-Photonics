@@ -1,6 +1,6 @@
 Machine Learning for Bio-inspired Photonics
 ==================================
-### Dr Gen Kamita
+### Dr Gen Kamita 
 ### Bio-inspired Photonics group, Cambridge
 
 
