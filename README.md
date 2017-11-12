@@ -4,7 +4,7 @@ Machine Learning for Bio-inspired Photonics
 ### Bio-inspired Photonics group, Cambridge
 
 
-![alt text](https://dl.dropboxusercontent.com/u/3543207/polliaFruit.png "Fruit of Pollia Condensata")
+![Fruit of Pollia Condensata](pictures/polliaFruit.png)
 
 >*<strong>Left:</strong> Berries of Pollia Condensata<sup>1</sup>. <strong> Right:</strong>  Colourful cells of Pollia taken with a microscope<sup>1</sup>.*
 
