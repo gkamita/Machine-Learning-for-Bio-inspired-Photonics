@@ -43,7 +43,7 @@ For those who attempt to replicate this work, a description of the method that I
 
 
 The method itself is quite straightforward.
-Starting with a set of spectra taken with a 2D scanner, which contains 2601 spectra in total, I did some resampling and extracted about 10% of the spectra.
+Starting with a set of spectra taken with a 2D scanner (data/spectra.csv), which contains 2601 spectra in total, I did some resampling and extracted about 10% of the spectra.
 In order to get the best performance, the resampling was done with even spacing.
 For example, a spactrum (column) can be resampled for every 10 spectra (10 columns) from data/spectra.csv.
 Then, I manually labeled these resampled spectra and used it for training my 1-peak/2-peak classifier.
