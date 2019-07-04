@@ -52,5 +52,5 @@ I also did some data augmentation in order to increase the number of training da
 Using the trained model, I did the pridiction on the entire dataset.
 I then used the prediction to perform further analysis including peak detection.
 
-**note: This repo is a mirror of "git clone ssh://ch-vignolini@git.csx.cam.ac.uk/u/gk298/machineLearning\_for\_bioPhotonics.git" 
+**note: This repo was forked from https://git.uis.cam.ac.uk/x/ch-vignolini/u/gk298/machineLearning_for_bioPhotonics.git
 
