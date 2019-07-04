@@ -1,4 +1,4 @@
-gachine Learning for Bio-inspired Photonics
+Machine Learning for Bio-inspired Photonics
 ==================================
 ### Dr Gen Kamita 
 ### Bio-inspired Photonics group, Cambridge
@@ -11,7 +11,7 @@ gachine Learning for Bio-inspired Photonics
 
 Brilliant colours found in nature are often not created from pigments, but are results of light interacting with extraordinarily intricate structures that are about 100 times smaller than human hair. Nature's shiniest blue fruit of Pollia Condensata, also known for its ever-lasting colour, uses cellulose microfibrils to make such structure. Inspired by the Pollia fruit, we study cellulose in order to create materials with such structural colour for sensing, security printing and other applications.
 
-Understanding the relationship between colour and structure is important for developing our materials, but this turns out to be an extremely difficult task. This is because bio-photonic structures often incorporate complicated features, which makes the materials difficult to analyse optically. In order to build optical models that truly represent our materials, it is important to understand their structures in small regions and also characterise the overall trend of the material. However, conventional methods for optical modeling are not very useful for solving this problem, because they are difficult to automate due to the reasons mentioned above. 
+Understanding the relationship between colour and structure is important for developing our materials, but this turns out to be an extremely difficult task. This is because bio-photonic structures often incorporate complicated features, which makes the materials difficult to analyse optically. In order to build optical models that truly represent our materials, it is important to understand their structures in small regions and also characterise the overall trend of the material. However, conventional methods for optical modeling are not very useful for solving this problem, because they are difficult to automate when the optical signals are too complicated. 
 
 This type of difficulty is caused by a fundamental limitation of non-linear optimisation, which is the fact that the output of an optimisation process can vary a lot depending on how it's constraints (and starting points) are set. Without a method that can automatically produce good constraints for our optical modelling, the optimisation program that we use can easily fall into a "local minimum", a false solution, rather than a "global minimum", the true solution that we are looking for. This means that we cannot access the statistical properties of our materials without losing the detailed information of the structure, even though the necessary optical data are available. 
 
