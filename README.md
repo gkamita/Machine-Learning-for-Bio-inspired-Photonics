@@ -39,8 +39,6 @@ We believe that this study is going to be the first example that shows how machi
 ---
 ## EDIT
 Data used for this study has been added, see directory "data".
-
-
 For those who attempt to replicate this work, a description of the method that I used is given in the following.
 
 
