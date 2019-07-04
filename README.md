@@ -41,8 +41,9 @@ We believe that this study is going to be the first example that shows how machi
 Data has been added, see directory "data".
 
 
-
 For those who attempt to replicate this work, a description of the method that I used is given in the following.
+
+
 The method itself is quite straightforward.
 Starting with a set of spectra taken with a 2D scanner, which contains 2601 spectra in total, I did some resampling and extracted probably about 10% of the spectra.
 In order to get the best performance, the resampling was done with even spacing.
