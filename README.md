@@ -44,13 +44,13 @@ Data has been added, see directory "data".
 
 For those who attempt to replicate this work, a description of the method that I used is given in the following.
 The method itself is quite straightforward.
-Starting with a set of spactra taken with a 2D scanner, which contains 2601 spectra in total, I did some resampling and extracted probably about 10% of the spectra.
+Starting with a set of spectra taken with a 2D scanner, which contains 2601 spectra in total, I did some resampling and extracted probably about 10% of the spectra.
 In order to get the best performance, the resampling was done with even spacing.
 For example, a spactrum (column) can be resampled for every 10 spectra (10 columns) from data/spectra.csv.
 Then, I manually labeled these resampled spectra and used it for training my 1-peak/2-peak classifier.
 I also did some data augmentation in order to increase the number of training data, which helped enhance the accuracy of the model.
-Using the trained model, I did the pridiction on the entire dataset.
-I then used the prediction to perform further analysis including peak detection.
+Using the trained model, I classified the entire dataset.
+I then used the output of the classification to perform further analysis, such as peak detection as shown above.
 
 **note: This repo was forked from https://git.uis.cam.ac.uk/x/ch-vignolini/u/gk298/machineLearning_for_bioPhotonics.git
 
