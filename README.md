@@ -47,7 +47,7 @@ Starting with a set of spectra taken with a 2D scanner, which contains 2601 spec
 In order to get the best performance, the resampling was done with even spacing.
 For example, a spactrum (column) can be resampled for every 10 spectra (10 columns) from data/spectra.csv.
 Then, I manually labeled these resampled spectra and used it for training my 1-peak/2-peak classifier.
-I also did some data augmentation in order to increase the number of training data, which helped enhance the accuracy of the model.
+I also did some data augmentation in order to increase the amount of labeled data, which helped enhance the accuracy of the model.
 Using the trained model, I classified the entire dataset.
 I then used the output of the classification to perform further analysis, such as peak detection as shown above.
 
