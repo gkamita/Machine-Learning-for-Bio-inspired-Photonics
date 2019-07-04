@@ -1,4 +1,4 @@
-Machine Learning for Bio-inspired Photonics
+gachine Learning for Bio-inspired Photonics
 ==================================
 ### Dr Gen Kamita 
 ### Bio-inspired Photonics group, Cambridge
@@ -24,7 +24,7 @@ To solve this dilemma, I developed a powerful machine-learning technique that al
 >*Peak detection results. The detected peaks are indicated by orange and yellow lins. <strong>Top:</strong> One peak. <strong>Middle:</strong> Two peaks. <strong>Bottom:</strong> Two peaks merging.*
 
 
-The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are merging (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample as shown bellow. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
+The above picture shows results of machine learning driven peak detection. It can be seen that only pronounced peaks are picked up regardless of where it appears, even when there are two peaks that are comming very close to each other (for more details, please see DetectionProcess.mp4 in this repo). Based on these results, we can create maps and histograms that show the detailed optical character and the statistical character of our sample as shown bellow. A clear correlation is seen between the features in the photograph and the maps, from which we can understand the underlying structural properties in great detail.
 
 ![maps](pictures/map.tif)
 
